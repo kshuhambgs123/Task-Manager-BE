@@ -35,7 +35,7 @@ https://github.com/kshuhambgs123/Task-Manager-BE.git
 
  7. __Frontend Source code :__
 
-       
+       https://github.com/kshuhambgs123/Task-Manager-FE.git
 
 8. __Netlify Deployed Url For Live:__
 
